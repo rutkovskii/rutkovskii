@@ -45,7 +45,7 @@ Which Blockchain? Not sure as of now. Etherium, Solana, Polkadot, TON? We'll see
 - 👨‍💻 My work for LyS can be found [Here](https://www.lystrategies.com/)   
   
 
-- 🌱 I currently aim to improve quality and efficiency of my code  
+- 🌱 I currently aim to write more efficient code  
   
 
 - ✌️ Hit me up! I will be happy to talk to you!  
