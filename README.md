@@ -94,6 +94,3 @@ Which Blockchain? Not sure as of now. Etherium, Solana, Polkadot, TON? We'll see
 
 </td></tr></table>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
