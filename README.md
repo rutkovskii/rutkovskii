@@ -39,7 +39,10 @@ Which Blockchain? Not sure as of now. Etherium, Solana, Polkadot, TON? We'll see
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I currently work at [Lightyear Strategies](https://www.lightyearstrategies.com/) and my work for LyS can be [Here](https://www.lystrategies.com/)   
+- 🔭 I currently work at [Lightyear Strategies](https://www.lightyearstrategies.com/)   
+  
+
+- 👨‍💻 My work for LyS can be found [Here](https://www.lystrategies.com/)   
   
 
 - 🌱 I currently aim to improve quality and efficiency of my code  
@@ -94,3 +97,5 @@ Which Blockchain? Not sure as of now. Etherium, Solana, Polkadot, TON? We'll see
 
 </td></tr></table>
 <br />
+
+----
