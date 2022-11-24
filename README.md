@@ -23,15 +23,7 @@ I am Software Engineer and a senior studying Computer Engineering at UMass Amher
 * System Engineering, DevOps, and Software Engineering
 * Blockchain development
 * Machine Learning and Data Science  
-  
-
-
-
-### My Plans:  
-From September 2022 until May 2023, I will dedicate my time to learning ML from university courses. In my free time (aside from Leetcode), I want to get my hands on Golang and Blockchain development. Most likely building L2 of Blockchain rather than L1. 
-
-Which Blockchain? Not sure as of now. Etherium, Solana, Polkadot, TON? We'll see...  
-  
+    
 
 <br/>  
 
