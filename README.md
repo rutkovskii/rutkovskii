@@ -31,14 +31,7 @@ I am Software Engineer and a senior studying Computer Engineering at UMass Amher
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I currently work at [Lightyear Strategies](https://www.lightyearstrategies.com/)   
-  
-
-- 👨‍💻 My work for LyS can be found [Here](https://www.lystrategies.com/)   
-  
-
-- 🌱 I currently aim to write more efficient code  
-  
+- 🔭 I currently work at Biomedical Engineering Laboratory at UMass Amherst)   
 
 - ✌️ Hit me up! I will be happy to talk to you!  
 
