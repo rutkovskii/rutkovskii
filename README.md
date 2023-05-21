@@ -6,7 +6,7 @@ const about = {
     experience: {
         curr: 'incoming quality assurance intern @ nokia',
         prev: 'software enginee @ lightyear strategies, easytry',
-        edu: ' BS'23 and MS'24 in computer engineering @ umass amherst'
+        edu: ' BS`23 and MS`24 in computer engineering @ umass amherst'
     },
     links: {
         github: 'https://github.com/rutkovskii',
