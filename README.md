@@ -9,7 +9,6 @@ const about = {
         edu: ' BS\'23 and MS\'24 in computer engineering @ umass amherst'
     },
     links: {
-<!--         website: 'https://', -->
         github: 'https://github.com/rutkovskii',
         linkedin: 'https://www.linkedin.com/in/rutkovskii'
     },
