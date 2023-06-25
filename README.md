@@ -4,8 +4,8 @@
 const about = {
     name: 'aleksei rutkovskii',
     experience: {
-        curr: 'incoming quality assurance intern @ nokia',
-        prev: 'software enginee @ lightyear strategies, easytry',
+        curr: 'quality assurance intern @ nokia',
+        prev: 'software engineer @ lightyear strategies, easytry',
         edu: 'BS`23 and MS`24 in computer engineering @ umass amherst'
     },
     links: {
