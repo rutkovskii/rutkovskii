@@ -1,4 +1,4 @@
-### Hi there! I'm Aleksei. <img src="Hi.gif" width="30px">
+### Hi there! I'm Aleksei. <img src="./Hi.gif" width="30px">
 
 ```javascript
 const about = {
