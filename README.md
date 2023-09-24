@@ -1,4 +1,4 @@
-### Hi there! I'm Aleksei. <img src="https://github.com/rutkovskii/rutkovskii/raw/main/Hi.gif" width="30px">
+### Hi there! I'm Aleksei
 
 ```javascript
 const about = {
