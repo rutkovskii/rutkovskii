@@ -13,7 +13,7 @@ const about = {
             'software engineer @ pr monkey',
             'software engineer intern @ easytry'
         ],
-        edu: 'BS`23 and MS`24 in computer engineering @ umass amherst'
+        edu: 'BS`23 and MS`25 in computer engineering @ umass amherst'
     },
     links: {
         github: 'https://github.com/rutkovskii',
